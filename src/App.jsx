@@ -156,8 +156,8 @@ function App() {
                 <img className='absolute scale-[.8] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src="./imag.png" alt="" />
               </div>
               <div className="relem w-[40%] py-10">
-                <h1 className='text-6xl'>Still Running,</h1>
-                <h1 className='text-6xl'>Not hunting,</h1>
+                <h1 className='text-6xl'>Stay Grounded,</h1>
+                <h1 className='text-6xl'>Run Wild</h1>
                 <p className=' mt-8 text-xl font-[Helvetica_Now_display]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet eum numquam suscipit nemo porro assumenda minima corporis obcaecati possimus excepturi eius eos, doloribus nobis ratione natus nihil placeat voluptatem molestiae!
                 </p>
                 <p className=' mt-2 text-xl font-[Helvetica_Now_display]'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, fuga perspiciatis! Veritatis, maiores.</p>
